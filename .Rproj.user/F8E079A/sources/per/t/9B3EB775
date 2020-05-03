@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588463170441.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3013204525",
+    "id" : "9B3EB775",
+    "lastKnownWriteTime" : 1588463709,
+    "last_content_update" : 1588463709292,
+    "path" : "C:/Users/BEJAR/Google Drive/R Coursera Files/From R to Github/Vacío.R",
+    "project_path" : "Vacío.R",
+    "properties" : {
+        "cursorPosition" : "0,5",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
